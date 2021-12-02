@@ -10,3 +10,16 @@ Ementa:
 - Estruturas de dados em Python  
 - Introdução a bibliotecas científicas
 - Projeto final
+
+Tópicos
+- 1. Variáveis, atribuições e operações aritméticas
+- 2. Comandos Condicionais
+- 3. Funções
+- 4. Comandos de Repetição
+- 5. Manipulação de Strings
+- 6. Listas
+- 7. Arquivos
+- 8. Recursão
+- 9. Dicionários e Tuplas
+- 10. Bibliotecas Científicas
+- Projeto Final
